@@ -13,6 +13,10 @@ Insights and recommendations are provided on the following key areas:
 ## Executive Summary:
 Algerians seem to hold the top position in terms of wealth produced per capita. The GNI per capita experienced several peaks between 1970 and 2000, before reaching its maximum in 2008 (5.21K). This is also clearly reflected in the other performance indicators, all of which show a positive trend.
 
+## Data structure:
+
+![alt](https://github.com/anassmar/Maghreb-macro-conomique-analyse/blob/19cc0b54b1fbe621a1e4cc60582f24c416292b21/Data%20structure.png)
+
 ## Insights Deep Dive:
 
 -Investments in production capital reached $97 billion in 2016 in Algeria, compared to $36 billion in Morocco. 
