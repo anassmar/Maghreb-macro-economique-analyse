@@ -8,3 +8,4 @@ Insights and recommendations are provided on the following key areas:
 
   - produced Wealth distribution per capita : GDP an GNI analyses per capita over 64 years (1960-2024).
   - Economic evolotion in the three countries: analyses of GDP evolotion, Gross capital formation impact on the GDP. 
+   ![alt][https://github.com/anassmar/Maghreb-macro-conomique-analyse/blob/main/summary.png?raw=true]
