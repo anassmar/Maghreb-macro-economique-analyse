@@ -11,4 +11,4 @@ Insights and recommendations are provided on the following key areas:
    ![alt](https://github.com/anassmar/Maghreb-macro-conomique-analyse/blob/main/summary.png?raw=true)
 
 ## Executive Summary:
--Algerians seem to hold the top position in terms of wealth produced per capita. The GNI per capita experienced several peaks between 1970 and 2000, before reaching its maximum in 2008 (5.21K). This is also clearly reflected in the other performance indicators, all of which show a positive trend.
+Algerians seem to hold the top position in terms of wealth produced per capita. The GNI per capita experienced several peaks between 1970 and 2000, before reaching its maximum in 2008 (5.21K). This is also clearly reflected in the other performance indicators, all of which show a positive trend.
