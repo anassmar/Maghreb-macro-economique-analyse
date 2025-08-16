@@ -22,5 +22,5 @@ Algerians seem to hold the top position in terms of wealth produced per capita. 
 -Investments in production capital reached $97 billion in 2016 in Algeria, compared to $36 billion in Morocco. 
 Tunisia, on the other hand, settled at $9 billion. However, a decline was observed between 2018 and 2020 due to the global Covid-19 pandemic.
 
---Real economic growth appears relatively stable in Tunisia, with an average variation between 0% and 10%. 
+-Real economic growth appears relatively stable in Tunisia, with an average variation between 0% and 10%. 
 Algeria, however, experienced more fluctuating trends, with significant peaks in 2008 and 2019.
