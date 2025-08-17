@@ -8,7 +8,8 @@ Insights and recommendations are provided on the following key areas:
 
   - produced Wealth distribution per capita : GDP an GNI analyses per capita over 64 years (1960-2024).
   - Economic evolotion in the three countries: analyses of GDP evolotion, Gross capital formation impact on the GDP. 
-The Python code used to clean and transform data is availible here ([Download link](https://github.com/anassmar/Maghreb-macro-conomique-analyse/blob/79255d4449b4dee0011cff480bf49a8655577873/Maghreb_macro_economic%20(code%20section).pdf))
+The Python code used to clean and transform data is availible here
+  -([Download link](https://github.com/anassmar/Maghreb-macro-conomique-analyse/blob/79255d4449b4dee0011cff480bf49a8655577873/Maghreb_macro_economic%20(code%20section).pdf))
 The final power BI dashbord is availible here ([Download link]())
 
 ## Executive Summary:
