@@ -8,6 +8,7 @@ Insights and recommendations are provided on the following key areas:
 
   - produced Wealth distribution per capita : GDP an GNI analyses per capita over 64 years (1960-2024).
   - Economic evolotion in the three countries: analyses of GDP evolotion, Gross capital formation impact on the GDP. 
+
 The Python code used to clean and transform data is availible here([Download link]()
 The final power BI dashbord is availible here ([Download link](https://1drv.ms/u/c/1a47f50edb86c182/ERpaFo0GdB9FoSgjdL6U1goBduqns3pPneoJodGwusZXIw?e=BgCXJo))
 
