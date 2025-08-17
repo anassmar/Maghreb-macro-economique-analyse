@@ -7,7 +7,9 @@ This project aims to use this data to analyse the Macroeconomic indicators in th
 Insights and recommendations are provided on the following key areas:
 
   - produced Wealth distribution per capita : GDP an GNI analyses per capita over 64 years (1960-2024).
-  - Economic evolotion in the three countries: analyses of GDP evolotion, Gross capital formation impact on the GDP. 
+  - Economic evolotion in the three countries: analyses of GDP evolotion, Gross capital formation impact on the GDP.
+
+The used data is availible here ([Link](https://data.worldbank.org/))
 
 The Python code used to clean and transform data is availible here([Download link](https://1drv.ms/b/c/1a47f50edb86c182/ERPbG-ldwVRHsCM2-yopJYgBEN7NMcAdrJgQtiF7LvGENA?e=hbGVhL))
 
