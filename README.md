@@ -1,6 +1,6 @@
 # Maghreb_macroconomique_analysis
 
-The World Bank Open Data platform, is a comprehensive collection of global development data.The platforme has significant interest in Economy, Social , Envirement and many others indicators that help for countries performances. 
+The World Bank Open Data platform, is a comprehensive collection of global development data.The platforme has significant interest in Economy, Social Envirement and many others indicators that help for countries performances. 
 
 This project aims to use this data to analyse the Macroeconomic indicators in the Maghrebin countries (Morocco , Tunisia , Algeria)
 
